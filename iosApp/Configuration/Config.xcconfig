@@ -1,0 +1,7 @@
+TEAM_ID=
+
+PRODUCT_NAME=SwapCampus_IsaacLee
+PRODUCT_BUNDLE_IDENTIFIER=com.example.swapcampus_isaaclee.SwapCampus_IsaacLee$(TEAM_ID)
+
+CURRENT_PROJECT_VERSION=1
+MARKETING_VERSION=1.0
